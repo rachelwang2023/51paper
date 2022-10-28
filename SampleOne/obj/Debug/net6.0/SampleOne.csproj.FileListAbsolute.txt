@@ -1,0 +1,15 @@
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/bin/Debug/net6.0/SampleOne
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/bin/Debug/net6.0/SampleOne.deps.json
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/bin/Debug/net6.0/SampleOne.runtimeconfig.json
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/bin/Debug/net6.0/SampleOne.dll
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/bin/Debug/net6.0/SampleOne.pdb
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/obj/Debug/net6.0/SampleOne.csproj.AssemblyReference.cache
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/obj/Debug/net6.0/SampleOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/obj/Debug/net6.0/SampleOne.AssemblyInfoInputs.cache
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/obj/Debug/net6.0/SampleOne.AssemblyInfo.cs
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/obj/Debug/net6.0/SampleOne.csproj.CoreCompileInputs.cache
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/obj/Debug/net6.0/SampleOne.dll
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/obj/Debug/net6.0/refint/SampleOne.dll
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/obj/Debug/net6.0/SampleOne.pdb
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/obj/Debug/net6.0/SampleOne.genruntimeconfig.cache
+/Users/phoebeong/Projects/ISSLearning/SA51Paper/SampleOne/SampleOne/obj/Debug/net6.0/ref/SampleOne.dll
