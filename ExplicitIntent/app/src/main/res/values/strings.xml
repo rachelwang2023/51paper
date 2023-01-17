@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="writeQuote">Write Quote</string>
+    <string name="showQuote">Show Quote</string>
+    <string name="yourQuote">Write your quote here</string>
+    <string name="ok">OK</string>
+</resources>
